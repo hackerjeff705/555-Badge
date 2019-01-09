@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 555_Badge)(type KiCad)(uri C:/Users/JEFFf/Desktop/KiCad/555_Badge/555_Badge)(options "")(descr ""))
+  (lib (name 555-Badge)(type KiCad)(uri C:/Users/JEFFf/Desktop/KiCad/555_Badge/555-Badge.pretty)(options "")(descr ""))
+)
